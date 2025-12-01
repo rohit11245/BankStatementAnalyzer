@@ -1,0 +1,5 @@
+{
+  "name": "AccountStatementAnalyzer",
+  "description": "A professional tool to convert bank statement PDFs and images into structured CSV data using Gemini AI.",
+  "requestFramePermissions": []
+}
